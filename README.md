@@ -1,2 +1,3 @@
-# Programacao-de-computadores
-Atividades, aulas e trabalhos de Python que fiz na faculdade
+# Programação de Computadores
+
+Aulas, atividades e trabalhos em Python da minha faculdade.
